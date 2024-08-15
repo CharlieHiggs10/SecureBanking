@@ -1,7 +1,7 @@
 # SecureBanking
 Secure Banking System
 
-The program allows users to create and manage multiple bank accounts, including checking and savings accounts, by inputting personal and account information such as names, addresses, account numbers, and PINs.
+This program allows users to create and manage multiple bank accounts, including checking and savings accounts, by inputting personal and account information such as names, addresses, account numbers, and PINs.
 
 Users can perform various banking operations through a console-based interface, including adding new accounts, checking balances, depositing funds, and withdrawing funds, by entering their account number and PIN for authentication.
 
